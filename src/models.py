@@ -31,4 +31,11 @@ courses = [
         "8 weeks",
         topics=["NumPy", "Pandas", "Matplotlib", "Machine Learning Basics"],
     ),
+    Course(
+        "Go Programming Language",
+        "Learn Go from the ground up: syntax, concurrency, and building production-ready services.",
+        "Bob Lee",
+        "5 weeks",
+        topics=["Syntax and Types", "Goroutines and Channels", "Interfaces", "Building REST APIs"],
+    ),
 ]
